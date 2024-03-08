@@ -10,4 +10,4 @@ server:
   port: 8761
 spring:
   application:
-    name: eureka-server
+    name: discovery-server
